@@ -1,0 +1,35 @@
+.document-list-container {
+  padding: 20px;
+}
+
+.document-list-header {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.document-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.document-item {
+  margin: 10px 0;
+}
+
+.document-link {
+  text-decoration: none;
+  color: #007bff; 
+}
+
+.document-link:hover {
+  color: #0056b3; 
+}
+
+.document-category {
+  color: #666; 
+}
+
+.no-documents {
+  color: #999; 
+  font-style: italic;
+}
